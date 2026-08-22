@@ -7,8 +7,3 @@ A passionate C++ Developer who started his programming journey at the age of 16.
 ### 🎮 About Me
 * 🌐 **Focus:** Game Development & Cyber Security
 * ⌨️ **Skills:** Touch typing enthusiast (200+ CPM)
-
----
-
-### 📈 My GitHub Stats
-![Devshchetnikov's GitHub stats](https://vercel.app)
