@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hello! I'm Devshchetnikov 👋
 
-<!--
-**devshchetnikov/devshchetnikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate C++ Developer who started his programming journey at the age of 16. I write code every day to build a great portfolio and master low-level concepts.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎮 About Me
+* 🌐 **Focus:** Game Development & Cyber Security
+* ⌨️ **Skills:** Touch typing enthusiast (200+ CPM)
+
+---
+
+### 📈 My GitHub Stats
+![Devshchetnikov's GitHub stats](https://vercel.app)
